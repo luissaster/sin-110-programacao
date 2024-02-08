@@ -1,2 +1,2 @@
-# sin110-programacao
-Aulas práticas realizadas na disciplina SIN110 - Programação, da UFV-CRP.
+# SIN 110 - Programação I
+Aulas práticas realizadas durante a disciplina de primeiro período SIN 110 - Programação I, da UFV-CRP.

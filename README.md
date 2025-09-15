@@ -1,6 +1,47 @@
-# SIN 110 - Programação I
+# SIN 110 - Programming I
 
 ![GitHub top language](https://img.shields.io/github/languages/top/luissaster/sin-110-programacao) ![GitHub language count](https://img.shields.io/github/languages/count/luissaster/sin-110-programacao) ![GitHub repo size](https://img.shields.io/github/repo-size/luissaster/sin-110-programacao) ![GitHub last commit](https://img.shields.io/github/last-commit/luissaster/sin-110-programacao)
+
+Repository with practical lessons and exercises developed during the **SIN 110 - Programming I** course at the Federal University of Viçosa - Rio Paranaíba Campus (UFV-CRP).
+
+## Repository Content
+
+The repository is organized into folders, each corresponding to a topic from the course:
+
+-   `01 - entrada e saída`: Exercises on standard input/output (`printf`, `scanf`).
+-   `02 - condições`: Exercises with conditional structures (`if`, `else`, `switch`).
+-   `03 - loops`: Exercises with repetition structures (`for`, `while`, `do-while`).
+-   `04 - vetores`: Exercises on one-dimensional arrays.
+-   `05 - matrizes`: Exercises on two-dimensional arrays.
+-   `06 - strings`: Exercises on string manipulation.
+-   `07 - funções`: Exercises on creating and using functions.
+-   `08 - ponteiros`: Introductory exercises on pointers.
+-   `09 - funções recursivas`: Exercises with recursive functions.
+-   `10 - alocação dinâmica`: Exercises on dynamic memory allocation (`malloc`, `free`).
+-   `11 - arquivos`: Exercises on file manipulation in C.
+
+## How to Compile and Run
+
+To compile the files, you will need a C compiler, such as GCC.
+
+1.  **Navigate to the exercise folder:**
+    ```bash
+    cd "01 - entrada e saída"
+    ```
+
+2.  **Compile the desired file:** (This command generates an executable named `exercicio.exe`)
+    ```bash
+    gcc 2.1.c -o exercicio
+    ```
+
+3.  **Run the program:**
+    ```bash
+    .\exercicio.exe
+    ```
+
+---
+
+# SIN 110 - Programação I
 
 Repositório com as aulas práticas e exercícios desenvolvidos durante a disciplina SIN 110 - Programação I, na Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP).
 

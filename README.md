@@ -1,5 +1,7 @@
 # SIN 110 - Programação I
 
+![GitHub top language](https://img.shields.io/github/languages/top/luissaster/sin-110-programacao) ![GitHub language count](https://img.shields.io/github/languages/count/luissaster/sin-110-programacao) ![GitHub repo size](https://img.shields.io/github/repo-size/luissaster/sin-110-programacao) ![GitHub last commit](https://img.shields.io/github/last-commit/luissaster/sin-110-programacao)
+
 Repositório com as aulas práticas e exercícios desenvolvidos durante a disciplina SIN 110 - Programação I, na Universidade Federal de Viçosa - Campus Rio Paranaíba (UFV-CRP).
 
 ## Conteúdo do Repositório
